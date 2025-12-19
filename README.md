@@ -6,7 +6,8 @@
 3. open the past exam pdf viewer
 4. click on the bookmark you just created
 
-<img width="545" height="631" alt="image" src="https://github.com/user-attachments/assets/e1d05126-58b4-431c-853b-a4ddf01ff203" />
+<img width="570" height="643" alt="image" src="https://github.com/user-attachments/assets/e83d43f9-0f63-4ef4-b367-79732258cd40" />
+
 
 
 ## Note
