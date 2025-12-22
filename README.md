@@ -3,7 +3,7 @@
 > Please leave a star if it works.
 
 > [!IMPORTANT]
-> The viewer name watermark on the top left of the pdf will not be removed.
+> The viewer name watermark will not be removed.
 
 ## Code
 
